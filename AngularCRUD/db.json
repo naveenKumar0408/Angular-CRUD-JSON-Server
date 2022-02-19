@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Haematite",
+      "lastName": "Name",
+      "email": "alex@test.com",
+      "mobile": "987654321",
+      "salary": "12456789"
+    },
+    {
+      "id": 3,
+      "firstName": "test",
+      "lastName": "test",
+      "email": "testtest",
+      "mobile": "1243535",
+      "salary": "5000"
+    },
+    {
+      "id": 4,
+      "firstName": "testetest",
+      "lastName": "testetst",
+      "email": "testets",
+      "mobile": "123435",
+      "salary": "5000"
+    },
+    {
+      "id": 5,
+      "firstName": "test",
+      "lastName": "tetst",
+      "email": "tests",
+      "mobile": "12343",
+      "salary": "35463"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "test name",
+      "email": "test@gmail.com",
+      "password": "test",
+      "mobile": 9875646,
+      "id": 1
+    },
+    {
+      "fullname": "Test User",
+      "email": "test@test.com",
+      "password": "test",
+      "mobile": 987654,
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
